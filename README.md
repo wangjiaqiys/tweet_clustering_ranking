@@ -23,5 +23,5 @@ read_tweets.py - Gives a simple way to read stored tweets from a JSON objests an
 
 dowload_tweets.py - Gives a simple way to download tweets from the twitter API and store them in files as JSON objects
 
-*_test.py - samples to test the tweepy  API and the google word2vec model
+*_test.py - samples to test the tweepy  API and the google word2vec model  
 *参考:https://zhuanlan.zhihu.com/p/29500866
